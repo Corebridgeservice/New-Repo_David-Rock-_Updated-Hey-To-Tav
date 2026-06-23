@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/heytotav"
+  to = "/heytotav/"
+  status = 301
+
+[[redirects]]
+  from = "/teachings/heytotav"
+  to = "/teachings/heytotav/"
+  status = 301
